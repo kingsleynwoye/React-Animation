@@ -46,7 +46,7 @@ class App extends Component {
           {state => (
             <div
               style={{
-                backgroundColor: "red",
+                backgroundColor: "lightsteelblue",
                 width: 100,
                 height: 100,
                 margin: "auto",
